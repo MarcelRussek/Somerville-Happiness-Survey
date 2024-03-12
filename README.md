@@ -21,6 +21,7 @@ Zufriedenheit der Einwohner haben, sollte mit den Umfragedaten eine entsprechend
 ### Anleitung zur Verwendung
 
 Um die Inhalte dieses Repositories zu nutzen, benötigen Sie KNIME und Power BI. Folgen Sie den Anweisungen in den jeweiligen Dokumenten, um die Workflows bzw. den Bericht zu öffnen und zu bearbeiten.
+Pfad: C:\somerville_happiness_survey\
 
 ### Kontakt
 
